@@ -1,7 +1,7 @@
 # Assignment 3 - Complete Documentation
 
-**Student Name**: [Your Full Name]  
-**Student ID**: [Your ID]  
+**Student Name**: [Aryam rashid]  
+**Student ID**: [445052037]  
 **Date Submitted**: [Submission Date]
 
 ---
